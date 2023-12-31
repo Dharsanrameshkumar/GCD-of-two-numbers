@@ -37,6 +37,7 @@ def gcd():
 ```
 
 ## Output:
+![Alt text](<Screenshot (60).png>)
 ![Alt text](<Screenshot (65).png>)
 
 ## Result:
